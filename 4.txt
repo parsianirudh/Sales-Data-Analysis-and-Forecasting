@@ -1,0 +1,3 @@
+•	Analyzed historical sales data using SQL and MongoDB to forecast trends, improving sales forecasting accuracy by 30% and optimizing inventory management, resulting in a 15% reduction in holding costs.
+•	Collected and cleaned sales data from ERP systems and databases, ensuring accuracy and consistency for reliable analysis.
+Visualization & Strategic Insight:
